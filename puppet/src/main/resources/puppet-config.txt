@@ -12,7 +12,7 @@ task.check.interval=200
 
 #服务器IP地址
 #server.ip=144.34.157.127
-server.ip=127.0.0.1
+server.ip=10.211.55.2
 
 #服务器端口号
 server.port=1234
@@ -24,4 +24,4 @@ error.count=5
 robot=goRobot
 
 #goRobot的IP:PORT,只有当robot实现方式是goRobot时才有意义
-go.robot.endpoint=127.0.0.1:12345
+go.robot.endpoint=10.211.55.2:12345
