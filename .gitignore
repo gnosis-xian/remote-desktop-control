@@ -3,3 +3,5 @@ common/target
 master/target
 puppet/target
 server/target
+*.iml
+*.log
