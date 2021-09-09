@@ -12,7 +12,7 @@ task.check.interval=200
 
 #服务器IP地址
 #server.ip=144.34.157.127
-server.ip=192.168.254.1
+server.ip=127.0.0.1
 
 #服务器端口号
 server.port=1234
